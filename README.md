@@ -1,1 +1,0 @@
-# segundo tutorial de Go
